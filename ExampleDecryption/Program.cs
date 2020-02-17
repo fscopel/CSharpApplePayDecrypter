@@ -8,8 +8,8 @@ namespace ExampleDecryption
     class Program
     {
         static readonly string paymentToken = @"C:\temp\payment.json";
-        private static readonly string privateKey = @"C:\temp\privateKey.der";
-        private static readonly string p12FileLocation = @"C:\temp\certificate.p12";
+        static readonly string privateKey = @"C:\temp\privateKey.der";
+        static readonly string p12FileLocation = @"C:\temp\certificate.p12";
 
         static void Main(string[] args)
         {
