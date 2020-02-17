@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Org.BouncyCastle.Crypto;
 using Org.BouncyCastle.Crypto.Parameters;
 
@@ -23,7 +19,7 @@ namespace ApplePayDecrypter
             hLen = digest.GetDigestSize();
         }
 
-        public IDigest Digest { get; private set; }
+        public IDigest Digest { get; }
 
         public int GenerateBytes(byte[] output, int outOff, int length)
         {
@@ -32,10 +28,10 @@ namespace ApplePayDecrypter
                 throw new DataLengthException("output buffer too small");
             }
 
-            byte[] hashBuf = new byte[hLen];
-            byte[] c = new byte[4];
-            int counter = 1;
-            int outputLen = 0;
+            var hashBuf = new byte[hLen];
+            var c = new byte[4];
+            var counter = 1;
+            var outputLen = 0;
 
             Digest.Reset();
 

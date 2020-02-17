@@ -4,3 +4,10 @@ C:\src\ApplePay\ApplePayDecrypter\ApplePayDecrypter\ApplePayDecrypter\bin\Debug\
 C:\src\ApplePay\ApplePayDecrypter\ApplePayDecrypter\ApplePayDecrypter\bin\Debug\BouncyCastle.Crypto.dll
 C:\src\ApplePay\ApplePayDecrypter\ApplePayDecrypter\ApplePayDecrypter\obj\Debug\ApplePayDecrypter.dll
 C:\src\ApplePay\ApplePayDecrypter\ApplePayDecrypter\ApplePayDecrypter\obj\Debug\ApplePayDecrypter.pdb
+C:\Code\CSharpApplePayDecrypter\ApplePayDecrypter\bin\Debug\ApplePayDecrypter.dll
+C:\Code\CSharpApplePayDecrypter\ApplePayDecrypter\bin\Debug\ApplePayDecrypter.pdb
+C:\Code\CSharpApplePayDecrypter\ApplePayDecrypter\bin\Debug\BouncyCastle.Crypto.dll
+C:\Code\CSharpApplePayDecrypter\ApplePayDecrypter\obj\Debug\ApplePayDecrypter.csprojAssemblyReference.cache
+C:\Code\CSharpApplePayDecrypter\ApplePayDecrypter\obj\Debug\ApplePayDecrypter.csproj.CopyComplete
+C:\Code\CSharpApplePayDecrypter\ApplePayDecrypter\obj\Debug\ApplePayDecrypter.dll
+C:\Code\CSharpApplePayDecrypter\ApplePayDecrypter\obj\Debug\ApplePayDecrypter.pdb

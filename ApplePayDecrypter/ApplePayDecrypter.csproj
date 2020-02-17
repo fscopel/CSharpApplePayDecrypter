@@ -45,7 +45,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ApplePayDecrypter.cs" />
+    <Compile Include="ApplePayDecrypt.cs" />
     <Compile Include="ConcatenationKdfGenerator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Definition\ApplePayHeader.cs" />

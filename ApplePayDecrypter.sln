@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplePayDecrypter", "ApplePayDecrypter\ApplePayDecrypter.csproj", "{B5727814-6805-44DD-943A-A5A65DDC3B18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDecryption", "ExampleDecryption\ExampleDecryption.csproj", "{DCDE0412-7640-44DF-B605-1F5602106CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5727814-6805-44DD-943A-A5A65DDC3B18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5727814-6805-44DD-943A-A5A65DDC3B18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5727814-6805-44DD-943A-A5A65DDC3B18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5727814-6805-44DD-943A-A5A65DDC3B18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCDE0412-7640-44DF-B605-1F5602106CB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCDE0412-7640-44DF-B605-1F5602106CB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCDE0412-7640-44DF-B605-1F5602106CB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCDE0412-7640-44DF-B605-1F5602106CB9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A32328-1BD0-49D6-AA4F-5B42F545FD9D}
+	EndGlobalSection
+EndGlobal
