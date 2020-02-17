@@ -1,6 +1,0 @@
-com/apple/merchant/provider/StaticEncryptedDataProvider.class
-com/apple/merchant/AsymmetricKeyVerifier.class
-com/apple/merchant/provider/CommandLineEncryptedDataProvider.class
-com/apple/merchant/provider/ColorSystemPrint.class
-com/apple/merchant/provider/EncryptedDataProvider.class
-com/apple/merchant/PaymentDecryptHelper.class
