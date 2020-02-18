@@ -26,8 +26,8 @@ You will need a few things to make this work:
 4. Place the files in whatever directories you are want.
     * The sample app is pointing to the c:\temp directory
     ```C#
-    static readonly string paymentToken = @"C:\temp\payment.json";
     static readonly string privateKey = @"C:\temp\privateKey.der";
+    static readonly string paymentToken = @"C:\temp\payment.json";
     static readonly string p12FileLocation = @"C:\temp\certificate.p12";
     ```
 
